@@ -4,7 +4,7 @@ Hackathon Starter
 
 [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/sahat) [![Book session on Codementor](https://cdn.codementor.io/badges/book_session_github.svg)](https://www.codementor.io/sahatyalkabov?utm_source=github&utm_medium=button&utm_term=sahatyalkabov&utm_campaign=github) [![Dependency Status](https://david-dm.org/sahat/hackathon-starter/status.svg?style=flat)](https://david-dm.org/sahat/hackathon-starter) [![Build Status](https://travis-ci.org/sahat/hackathon-starter.svg?branch=master)](https://travis-ci.org/sahat/hackathon-starter) [![Join the chat at https://gitter.im/sahat/hackathon-starter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sahat/hackathon-starter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Thinkful Pair on Node](https://tf-assets-staging.s3.amazonaws.com/badges/thinkful_repo_badge.svg)](http://start.thinkful.com/node/)
 
-**Live Demo**: http://hackathon-starter.azurewebsites.net/
+**Live Demo**: http://hackathonstarter-sahat.rhcloud.com
 
 Jump to [What's new in 4.0.1?](#changelog)
 
@@ -237,7 +237,7 @@ The same goes for other providers.
 - Copy the **Secret Key**. and add this into `.env` file
 <hr>
 
-<img src="https://yenniferallulli.com/wp-content/uploads/2015/01/Paypal-Logo-Transparent-png-format-large-size.png" width="200">
+<img src="https://pixabay.com/static/uploads/photo/2015/05/26/09/37/paypal-784404_960_720.png" width="200">
 - Visit [PayPal Developer](https://developer.paypal.com/)
 - Log in to your PayPal account
 - Click **Applications > Create App** in the navigation bar

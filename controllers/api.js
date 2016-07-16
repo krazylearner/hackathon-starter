@@ -246,7 +246,7 @@ exports.getLastfm = (req, res, next) => {
 
 /**
  * GET /api/twitter
- * Twiter API example.
+ * Twitter API example.
  */
 exports.getTwitter = (req, res, next) => {
   const token = req.user.tokens.find(token => token.kind === 'twitter');
@@ -742,6 +742,11 @@ exports.postBitGo = (req, res) => {
   }
 };
 
+/**
+ * GET /api/upload
+ * File Upload API example.
+ */
+ 
 exports.getFileUpload = (req, res, next) => {
   res.render('api/upload', {
     title: 'File Upload'
